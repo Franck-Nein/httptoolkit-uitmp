@@ -1,5 +1,6 @@
 HTTP Toolkit UI [![Build Status](https://github.com/httptoolkit/httptoolkit-ui/workflows/CI/badge.svg)](https://github.com/httptoolkit/httptoolkit-ui/actions)
 ===================
+Ignore
 
 This repo contains the UI for [HTTP Toolkit](https://httptoolkit.com), a beautiful, cross-platform & open-source HTTP(S) debugging proxy, analyzer & client.
 
